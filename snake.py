@@ -9,7 +9,7 @@ delay = 0.2
 # Score
 score = 0
 high_score = 0
-# setup the screen make a window on the screen
+# setup the screen make a window on the screen Snake Game thx to Christaian Thompson
 
 wn = turtle.Screen()
 wn.title("Snake Game")
